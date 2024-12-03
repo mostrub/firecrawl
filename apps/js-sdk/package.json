@@ -12,6 +12,6 @@
   "license": "ISC",
   "dependencies": {
     "@mendable/firecrawl-js": "^0.0.8",
-    "axios": "^1.6.8"
+    "axios": "^1.7.8"
   }
 }
